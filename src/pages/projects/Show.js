@@ -73,7 +73,7 @@ const ProjectsShow = () => {
         <div className='mt-3'>
         <a href={project.website} rel="noreferrer" className="btn btn-neutral">Website</a>
         <a href={project.github} rel="noreferrer" className="btn btn-neutral mx-3">Github</a>
-        <Link className="btn btn-neutral" to={`/projects/${project.slug}/demo`}>Demo</Link>
+        {(project.demo) === true ? (<Link className="btn btn-neutral" to={`/projects/${project.slug}/demo`}>Demo</Link>) : (null)}
         </div>
         </div>
 

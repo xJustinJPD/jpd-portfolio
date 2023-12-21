@@ -21,7 +21,7 @@
         "tags": ["JavaScript", "React", "HTML", "API"],
         "website": "https://jpd-react-countries.web.app",
         "github": "https://github.com/xJustinJPD/react-countries",
-        "demo" : true
+        "demo" : false
 
     },
     {
@@ -63,6 +63,6 @@
         "tags": ["JavaScript", "React", "API", "Rest Client", "CRUD"],
         "website": "https://jpd-react-courses.web.app",
         "github": "https://github.com/xJustinJPD/react-courses",
-        "demo" : true
+        "demo" : false
     }
 ]
