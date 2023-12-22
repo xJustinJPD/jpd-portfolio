@@ -5,8 +5,8 @@ const Contact = () => {
         <div>
         <h3 className="text-4xl font-bold">My Contact</h3>
         <br/>
-            <p><b>Phone:</b> +353 83474 8031</p>
-            <p><b>E-mail:</b> justinperrydoyle@gmail.com</p>
+            <p><b>Phone:</b> +353 83 903 23245</p>
+            <p><b>E-mail:</b> justin@gmail.com</p>
             <br/>
         </div>
         </div>
