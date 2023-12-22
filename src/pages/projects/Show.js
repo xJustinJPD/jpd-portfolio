@@ -70,7 +70,7 @@ const ProjectsShow = () => {
         <h1><b>Date:</b> { project.date }</h1>
         <br/>
 
-        <div className='mt-3'>
+        <div className='mt-3 card-actions justify-content-between'>
         {(project.website) ? (<a href={project.website} rel="noreferrer" className="btn btn-neutral">Website</a>) : (null)}
         {(project.github) ? (<a href={project.github} rel="noreferrer" className="btn btn-neutral">Github</a>) : (null)}
         {(project.demo) === true ? (<Link className="btn btn-neutral" to={`/projects/${project.slug}/demo`}>Demo</Link>) : (null)}
