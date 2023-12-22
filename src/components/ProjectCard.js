@@ -8,8 +8,8 @@ const ProjectCard = ({project}) => {
 
 	return (
                 <>
-                <div className="card lg:card-side bg-base-100 shadow-xl my-3 glass">
-                <figure><img src={project.images[0].path} alt={project.images[0].caption} /></figure>
+                <div className="card card-compact bg-base-100 shadow-xl my-3 mx-3 w-auto glass">
+                <figure className='w-auto h-80'><img src={project.images[0].path} alt={project.images[0].caption} /></figure>
                 <div className="card-body">
                         <h2 className="card-title">{project.title}</h2>
                         <p>{project.description}</p>

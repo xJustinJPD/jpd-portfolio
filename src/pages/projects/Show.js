@@ -43,12 +43,12 @@ const ProjectsShow = () => {
     if(project.images){
         imageCarousel = (  
             <>
-            <div className="carousel w-25 justify-content-end">
+            <div className="carousel carousel-vertical w-auto h-full">
                 { items }
             </div> 
-            <div className="flex justify-center w-25 py-2 gap-2">
+            {/* <div className="flex justify-center py-2 gap-2">
                 { buttons }
-            </div>
+            </div> */}
             </> 
             )
     }
@@ -60,7 +60,7 @@ const ProjectsShow = () => {
     return (
         <>
         <div className='flex my-5 p-5'>
-        <div className='w-full ml-5'>
+        <div className='w-1/2 mx-5'>
         <h1 className="mb-5 text-5xl font-bold">{ project.title }</h1>
         { tags }
         <br/>
@@ -71,8 +71,8 @@ const ProjectsShow = () => {
         <br/>
 
         <div className='mt-3'>
-        <a href={project.website} rel="noreferrer" className="btn btn-neutral">Website</a>
-        <a href={project.github} rel="noreferrer" className="btn btn-neutral mx-3">Github</a>
+        {(project.website) ? (<a href={project.website} rel="noreferrer" className="btn btn-neutral">Website</a>) : (null)}
+        {(project.github) ? (<a href={project.github} rel="noreferrer" className="btn btn-neutral">Github</a>) : (null)}
         {(project.demo) === true ? (<Link className="btn btn-neutral" to={`/projects/${project.slug}/demo`}>Demo</Link>) : (null)}
         </div>
         </div>
@@ -80,7 +80,7 @@ const ProjectsShow = () => {
 
 
 
-        <div className='justify-end'>
+        <div className='justify-end w-1/2 h-80'>
         { imageCarousel }
         </div>
         </div>

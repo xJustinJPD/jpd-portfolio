@@ -6,15 +6,15 @@
         "images": [
             {
                 "caption": "Screenshot of the code",
-                "path": "https://www.flickr.com/photos/160697757@N06/53411563814/in/dateposted-public/"
+                "path": "/images/countrieshome.png"
             },
             {
                 "caption": "Screenshot of the homepage",
-                "path": "https://www.flickr.com/photos/160697757@N06/53410312007/in/dateposted-public/"
+                "path": "/images/countriescode.png"
             },
             {
                 "caption": "Screenshot of the homepage",
-                "path": "https://www.flickr.com/photos/160697757@N06/53411563979/in/dateposted-public/"
+                "path": "/images/countriesshow.png"
             }
         ],
         "date": "2023",
@@ -31,7 +31,11 @@
         "images": [
             {
                 "caption": "Screenshot of the code",
-                "path": "https://picsum.photos/200/300"
+                "path": "/images/giphyhome.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/giphycode.png"
             }
         ],
         "date": "2023",
@@ -48,15 +52,15 @@
         "images": [
             {
                 "caption": "Screenshot of the code",
-                "path": "https://www.flickr.com/photos/160697757@N06/53411233166/in/dateposted-public/"
+                "path": "/images/coursehome.png"
             },
             {
                 "caption": "Screenshot of the code",
-                "path": "https://www.flickr.com/photos/160697757@N06/53410312302/in/dateposted-public/"
+                "path": "/images/coursecode.png"
             },
             {
                 "caption": "Screenshot of the code",
-                "path": "https://www.flickr.com/photos/160697757@N06/53410312372/in/dateposted-public/"
+                "path": "/images/coursesshow.png"
             }
         ],
         "date": "2023",
