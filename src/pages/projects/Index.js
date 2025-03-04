@@ -11,13 +11,14 @@ const ProjectsIndex = () => {
     console.log(projects)
 
     useEffect(() => {
-        axios.get('https://jpd-portfolio-default-rtdb.europe-west1.firebasedatabase.app/.json')
-        .then(response => {
-            setProjects(response.data)
-        })
-        .catch(e => {
-            console.error(e)
-        })
+        // axios.get('https://jpd-portfolio-default-rtdb.europe-west1.firebasedatabase.app/.json')
+        // .then(response => {
+        //     setProjects(response.data)
+        // })
+        // .catch(e => {
+        //     console.error(e)
+        // })
+        setProjects(projectsJSON)
     }, [])
 
     const projectList = projects.map((project, i) => {

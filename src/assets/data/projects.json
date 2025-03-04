@@ -68,5 +68,53 @@
         "website": "https://jpd-react-courses.web.app",
         "github": "https://github.com/xJustinJPD/react-courses",
         "demo" : false
+    },
+    {
+        "slug" : "react-clash",
+        "title": "Clash",
+        "description": "My third year final project, Clash is a full stack application that allows users to play Call of Duty in a competitive environment. Me and my partner created a matchmaking system from the ground up, along with many other systems included in Clash.",
+        "images": [
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/mainclash.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/homeclash.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/codeclash.png"
+            }
+        ],
+        "date": "2024",
+        "tags": ["JavaScript", "React", "API", "Rest Client", "PHP", "Full-Stack"],
+        "website": "https://clash-d9110.web.app/",
+        "github": "https://github.com/xJustinJPD/react-clash",
+        "demo" : false
+    },
+    {
+        "slug" : "expo-app",
+        "title": "MERN Full-Stack App",
+        "description": "This project was my introduction to the MERN stack, using MongoDB, Expo/React-Native, Node and Typescript, some of which I had done before, much of which was completely new.",
+        "images": [
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/carshome.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/carsindex.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/carscode.png"
+            }
+        ],
+        "date": "2024",
+        "tags": ["Typescript", "Express", "MongoDB", "Node", "Expo", "React-Native", "MERN"],
+        "website": "https://ajs-ca-2.vercel.app/",
+        "github": "https://github.com/xJustinJPD/AJS-CA2",
+        "demo" : false
     }
 ]
