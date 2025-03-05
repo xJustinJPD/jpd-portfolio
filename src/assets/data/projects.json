@@ -116,5 +116,61 @@
         "website": "https://ajs-ca-2.vercel.app/",
         "github": "https://github.com/xJustinJPD/AJS-CA2",
         "demo" : false
+    },
+    {
+        "slug" : "ai-proj",
+        "title": "Mobilenet Image Classifier",
+        "description": "My second project using AI and the first with a pre-trained large model. In this project I used mobilenet and compared it against a personal model made and trained by me. My goal was to show the inability to obtain useful results from smaller models, and displaying the monopoly that large, welathy companies have and will continue to have into the future.",
+        "images": [
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/aitrain.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/aiconf.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/aigraph.png"
+            }
+        ],
+        "date": "2024",
+        "tags": ["AI", "Mobilenet", "Jupyter", "Pyhton", "Jupyter Notebook", "Machine Learning", "Tensorflow"],
+        "website": "",
+        "github": "https://github.com/IADT-CC-Y4-AI2/deep-learning-with-tensorflow-and-or-gemini-api-xJustinJPD",
+        "demo" : false
+    },
+    {
+        "slug" : "analytics-proj",
+        "title": "Data Analytics & Recommender Systems with Python",
+        "description": "This was my first project doing in depth data analytics, machine learning and recommender systems. In this project we had three unique problems to tackle, one data analytics, one machine learning, and one recommender system. ",
+        "images": [
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/analyticscode.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/analyticscode2.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/analyticsgraph.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/analyticsrec.png"
+            },
+            {
+                "caption": "Screenshot of the code",
+                "path": "/images/analyticsrec2.png"
+            }
+        ],
+        "date": "2024",
+        "tags": ["Data Analytics", "Recommender Systems", "Jupyter", "Pyhton", "Jupyter Notebook", "Anaconda", "Machine Learning"],
+        "website": "",
+        "github": "",
+        "demo" : false
     }
 ]
