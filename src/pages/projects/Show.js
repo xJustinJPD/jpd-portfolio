@@ -81,6 +81,7 @@ const ProjectsShow = () => {
 
 
         <div className='justify-end w-1/2 h-80'>
+        Please Scroll To View More Images
         { imageCarousel }
         </div>
         </div>
