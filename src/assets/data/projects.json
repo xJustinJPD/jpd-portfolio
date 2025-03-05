@@ -5,15 +5,15 @@
         "description": "React Countries is a front end application that displays data involving countries to the user using an API. This was my first major graded API project.",
         "images": [
             {
-                "caption": "Screenshot of the code",
+                "caption": "Homepage",
                 "path": "/images/countrieshome.png"
             },
             {
-                "caption": "Screenshot of the homepage",
+                "caption": "Screenshot of the code",
                 "path": "/images/countriescode.png"
             },
             {
-                "caption": "Screenshot of the homepage",
+                "caption": "Show page",
                 "path": "/images/countriesshow.png"
             }
         ],
@@ -30,7 +30,7 @@
         "description": "One of my first react applications, gihpy is an app that displays GIFs from an API to the user.",
         "images": [
             {
-                "caption": "Screenshot of the code",
+                "caption": "Homepage",
                 "path": "/images/giphyhome.png"
             },
             {
@@ -51,7 +51,7 @@
         "description": "My second major React/API application, takes information from a 'college' API and allows you to use CRUD on each entity from the college.",
         "images": [
             {
-                "caption": "Screenshot of the code",
+                "caption": "Homepage",
                 "path": "/images/coursehome.png"
             },
             {
@@ -59,7 +59,7 @@
                 "path": "/images/coursecode.png"
             },
             {
-                "caption": "Screenshot of the code",
+                "caption": "Show page",
                 "path": "/images/coursesshow.png"
             }
         ],
@@ -75,11 +75,11 @@
         "description": "My third year final project, Clash is a full stack application that allows users to play Call of Duty in a competitive environment. Me and my partner created a matchmaking system from the ground up, along with many other systems included in Clash.",
         "images": [
             {
-                "caption": "Screenshot of the code",
+                "caption": "Homepage",
                 "path": "/images/mainclash.png"
             },
             {
-                "caption": "Screenshot of the code",
+                "caption": "Teams Page",
                 "path": "/images/homeclash.png"
             },
             {
@@ -99,11 +99,11 @@
         "description": "This project was my introduction to the MERN stack, using MongoDB, Expo/React-Native, Node and Typescript, some of which I had done before, much of which was completely new.",
         "images": [
             {
-                "caption": "Screenshot of the code",
+                "caption": "Homepage",
                 "path": "/images/carshome.png"
             },
             {
-                "caption": "Screenshot of the code",
+                "caption": "Index Page",
                 "path": "/images/carsindex.png"
             },
             {
@@ -123,15 +123,15 @@
         "description": "My second project using AI and the first with a pre-trained large model. In this project I used mobilenet and compared it against a personal model made and trained by me. My goal was to show the inability to obtain useful results from smaller models, and displaying the monopoly that large, welathy companies have and will continue to have into the future.",
         "images": [
             {
-                "caption": "Screenshot of the code",
+                "caption": "Model Training Epochs",
                 "path": "/images/aitrain.png"
             },
             {
-                "caption": "Screenshot of the code",
+                "caption": "Confusion Matrix",
                 "path": "/images/aiconf.png"
             },
             {
-                "caption": "Screenshot of the code",
+                "caption": "Validation and Test Accuracy",
                 "path": "/images/aigraph.png"
             }
         ],
@@ -147,23 +147,23 @@
         "description": "This was my first project doing in depth data analytics, machine learning and recommender systems. In this project we had three unique problems to tackle, one data analytics, one machine learning, and one recommender system. ",
         "images": [
             {
-                "caption": "Screenshot of the code",
+                "caption": "Using a locate function",
                 "path": "/images/analyticscode.png"
             },
             {
-                "caption": "Screenshot of the code",
+                "caption": "Creating a commission column",
                 "path": "/images/analyticscode2.png"
             },
             {
-                "caption": "Screenshot of the code",
+                "caption": "Graph of Sales",
                 "path": "/images/analyticsgraph.png"
             },
             {
-                "caption": "Screenshot of the code",
+                "caption": "Recommendations based on score",
                 "path": "/images/analyticsrec.png"
             },
             {
-                "caption": "Screenshot of the code",
+                "caption": "Item to Item Recommendations",
                 "path": "/images/analyticsrec2.png"
             }
         ],
