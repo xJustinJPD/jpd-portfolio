@@ -172,5 +172,25 @@
         "website": "",
         "github": "",
         "demo" : false
+    },
+    {
+        "slug" : "vega-dashboard",
+        "title": "Exploration of the 2008 Financial Crisis with Vega-Lite",
+        "description": "One of my masters projects involved using Vega-Lite to create a dashboard that explored the 2008 financial crisis. The dashboard included multiple visualizations that allowed users to interactively explore different aspects of the crisis, specifically 2 CSO datasets involving birthrates and disposable income per person. For this project I was selected to present a talk at the CSO for my work which was a great experience and honour.",
+        "images": [
+            {
+                "caption": "The complete dashboard",
+                "path": "/images/Dashboard.png"
+            },
+            {
+                "caption": "Our group presenting at the CSO",
+                "path": "/images/group.jpg"
+            }
+        ],
+        "date": "2025",
+        "tags": ["Data Visualisation", "Vega-Lite", "Data Analytics", "CSO Datasets"],
+        "website": "",
+        "github": "",
+        "demo" : false
     }
 ]

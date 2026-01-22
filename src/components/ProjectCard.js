@@ -18,7 +18,7 @@ const ProjectCard = ({project}) => {
                         {tags}
                         </div>
                         <div className="card-actions justify-end">
-                        {(project.website) ? (<a href={project.website} rel="noreferrer" className="btn btn-neutral">Website</a>) : (null)}
+                        {(project.website) ? (<a href={project.website} rel="noreferrer" className="btn btn-neutral">Explore The Project</a>) : (null)}
                         {(project.github) ? (<a href={project.github} rel="noreferrer" className="btn btn-neutral">Github</a>) : (null)}
                         <Link className="btn btn-neutral" to={`/projects/${project.slug}`}>More</Link>
                         </div>
